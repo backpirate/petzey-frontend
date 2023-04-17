@@ -1,0 +1,30 @@
+.doctorview{
+    position: relative;
+    margin-left: 200px;
+}
+
+.doctorview .card{
+    max-width: 250px;
+
+}
+
+
+.alldoctorview .card{
+    width: 250px;
+}
+
+.doctorview img{
+    width: 50px;
+}
+
+
+.alldoctorview {
+    display: flex;
+    margin-left: 200px;
+}
+
+.alldoctorview img{
+    width: 50px;
+}
+
+

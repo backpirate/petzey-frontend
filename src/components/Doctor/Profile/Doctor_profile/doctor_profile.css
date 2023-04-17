@@ -1,0 +1,138 @@
+.row{
+    background-color: white;
+    position:absolute;
+    left: 225px;
+    top: 80px;
+    width: 850px;
+}
+
+.card-text{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom:0px ;
+}
+
+.card-text h4{
+    margin-bottom: 0px;
+}
+
+.btn{
+    align-items: center;
+    margin-bottom:0px ;
+    text-align: end;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.row p{
+    margin-top: 0%;
+    color:grey;
+    font-size: small;
+}
+
+.Profile_info{
+    display: flex;
+}
+.Profile_info img{
+    width: 100px;
+
+}
+
+.Profile_info{
+    margin-left: 20px;
+}
+
+
+.text-secondary{
+    margin-left: 80%;
+}
+
+
+.Profile_Text{
+    width: 100px;
+    white-space: nowrap;
+}
+
+
+.docinput input{
+    border-top: none;
+    border-left:none ;
+    border-right: none;
+}
+
+
+.modal-footer{
+    display: flex;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .temp{
+    position:absolute;
+    margin-top: 150px;
+}
+.doctor_profile .row{
+    background-color: white;
+    position:absolute;
+    left: 225px;
+    top: 80px;
+    width: 850px;
+}
+
+.doctor_profile .card-text{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom:0px ;
+}
+
+.doctor_profile .card-text h4{
+    margin-bottom: 0px;
+}
+
+.doctor_profile .btn{
+    align-items: center;
+    margin-bottom:0px ;
+    text-align: end;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.doctor_profile .row p{
+    margin-top: 0%;
+    color:grey;
+    font-size: small;
+}
+
+.doctor_profile .Profile_info{
+    display: flex;
+}
+
+
+.doctor_profile .Profile_info img{
+    width: 100px;
+
+}
+
+.doctor_profile .Profile_info{
+    margin-left: 20px;
+}
+
+
+.doctor_profile .text-secondary{
+    margin-left: 80%;
+}
+
+
+.doctor_profile .Profile_Text{
+    width: 100px;
+    white-space: nowrap;
+} */

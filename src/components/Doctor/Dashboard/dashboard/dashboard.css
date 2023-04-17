@@ -1,0 +1,127 @@
+
+
+.overall .card{
+    position: relative;
+    float: left;
+    top:40px;
+    left: 200px;
+    width: 259px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+
+.docappointmentd{
+    float: left;
+    position: relative;
+    left: 200px;
+}
+
+.status{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.newappointmentdashd.btn{
+    width: 200px;
+    height:30px;
+    text-align: center;
+
+}
+
+.searchd{
+    display: inline-block;
+}
+
+.searchd .collapse{
+    margin-left: 500px;   
+}
+.searchd .date .btn{
+    width: 150px;
+    height:30px;
+    display: flex;
+    background-color: white;
+    color: black;
+    text-emphasis-color: white;
+}
+
+.searchd .btn a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    /* color: white; */
+}
+
+.docappointmentd .card{
+    margin-right: 40px;
+    border-radius: 10%;
+}
+.docappointmentd img{
+    width: 100px;
+}
+
+.docappointmentd a{
+    color: black;
+    text-decoration: none;
+}
+
+.docappointmentd i{
+    margin-left: 15px;
+    color: rgb(255, 99, 37);
+}
+
+/* /// */
+
+
+.docappointmentd .card-group{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 80px;
+}
+
+.docappointmentd .card-body img{
+    width:70px;
+    height:70px; 
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+.docappointmentd .card-title h6,p{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+.docappointmentd .card-title p{
+    padding-top: 0px;
+    font-size:x-small;
+}
+.text-muted1{
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+time{
+    font-size: larger;
+}
+.docappointmentd a{
+    color: black ;
+    text-decoration: none;
+}
+
+/* .recpappointment .card-body i{
+    margin-right: 20px;
+} */
+
+.sample{
+    /* float: left; */
+    position: relative;
+    left: 200px;
+    margin-top: 30px;
+}
+
+
+.docappointmentd .modal-footer{
+    margin-left: 0px;
+}

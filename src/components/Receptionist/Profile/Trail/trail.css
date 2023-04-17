@@ -1,0 +1,29 @@
+.newapp{
+    /* margin-right: 45%; */
+    text-align: left;
+    margin-left: 15%;
+    /* position: absolute;  */
+   
+}
+
+
+.search{
+    /* position: absolute; */
+    /* top: 355px;
+    left: 575px; */
+    /* height: 30px; */
+    width: 100px;
+    margin-left: 1%;
+
+}
+
+
+.search2{
+    width: 300px;
+    align-content: flex-end;
+}
+
+.cal{
+    width: 300px;
+}
+

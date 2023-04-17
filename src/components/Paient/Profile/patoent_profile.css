@@ -1,0 +1,67 @@
+.patient_profile .row{
+    background-color: white;
+    position:relative;
+    left: 225px;
+    top: 80px;
+    width: 850px;
+    margin-bottom: 100px;
+}
+
+.patient_profile .card-text{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom:0px ;
+}
+
+.patient_profile .card-text h4{
+    margin-bottom: 0px;
+}
+
+.patient_profile .btn{
+    align-items: center;
+    margin-bottom:0px ;
+    text-align: end;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.patient_profile .row p{
+    margin-top: 0%;
+    color:grey;
+    font-size: small;
+}
+
+.patient_profile .Profile_info{
+    display: flex;
+}
+
+.patient_profile .Profile_info img{
+    width: 100px;
+
+}
+
+.patient_profile .Profile_info{
+    margin-left: 20px;
+}
+
+
+.patient_profile .text-secondary{
+    margin-left: 80%;
+}
+
+
+.patient_profile .Profile_Text{
+    width: 100px;
+    white-space: nowrap;
+}
+
+.patient_profile .docinput input{
+    border-top: none;
+    border-left:none ;
+    border-right: none;
+}
+
+
+.patient_profile .modal-footer{
+    display: flex;
+    
+}

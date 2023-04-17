@@ -1,0 +1,53 @@
+.recp-profile .row{
+    background-color: white;
+    position:absolute;
+    left: 225px;
+    top: 80px;
+    width: 850px;
+}
+
+.recp-profile .card-text{
+    display: flex;
+    align-items: flex-end;
+    margin-bottom:0px ;
+}
+
+.recp-profile .card-text h4{
+    margin-bottom: 0px;
+}
+
+.recp-profile .btn{
+    align-items: center;
+    margin-bottom:0px ;
+    text-align: end;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.recp-profile .row p{
+    margin-top: 0%;
+    color:grey;
+    font-size: small;
+}
+
+.recp-profile .Profile_info{
+    display: flex;
+}
+.recp-profile .Profile_info img{
+    width: 100px;
+
+}
+
+.recp-profile .Profile_info{
+    margin-left: 20px;
+}
+
+
+.recp-profile .text-secondary{
+    margin-left: 80%;
+}
+
+
+.recp-profile .Profile_Text{
+    width: 100px;
+    white-space: nowrap;
+}

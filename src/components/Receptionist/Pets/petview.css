@@ -1,0 +1,30 @@
+.petview{
+    position: relative;
+    margin-left: 200px;
+}
+
+.petview .card{
+    max-width: 250px;
+
+}
+
+.allpetview{
+    margin-left: 200px;
+}
+
+.allpetview .card{
+    width: 250px;
+}
+
+.petview img{
+    width: 50px;
+}
+
+.allpetview {
+    display: flex;
+    margin-left: 200px;
+}
+
+.allpetview img{
+    width: 50px;
+}

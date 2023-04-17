@@ -1,0 +1,220 @@
+.apporeportr .firstpart
+{
+    margin-left: 30px;
+}
+.apporeportr .arpicons
+{
+    margin-top: -65px;
+    margin-left: 800px;
+    /* padding-right: 100px; */
+}
+.apporeportr .arpicons i{
+    padding-right: 10px;
+    color: red;
+}
+.apporeportr .secondpart
+{
+    margin-left:40px;
+    margin-top: -30px;
+    
+}
+.apporeportr .secondpart span{
+   color:red;
+    background-color:#FFE9AE;
+    padding:5px;
+    border-radius:25px;
+     margin-left: 10px;
+
+}
+.apporeportr .parentcard
+{
+    margin-left: 40px;
+    margin-right: 45px;
+    margin-bottom: 5%;
+    width: 35rem;
+    padding-bottom: 20px;
+    
+}
+.apporeportr .parentcard1 p h6{
+    margin-left: 135px;
+    /* margin-top: -30px; */
+    /* padding: 0; */
+
+ } 
+.apporeportr .doctorcard
+ {
+    margin-left: 57%;
+    margin-top: -290px;
+    margin-bottom: 10%;
+    padding-bottom: 80px;
+    /* margin-right:90px ; */
+    width: 25rem;
+    /* margin-right: -5%; */
+ }
+.apporeportr .doctorname
+ {
+    margin-left: 135px;
+ }
+ .apporeportr  p
+ {
+    font-size: 13px;
+ }
+ .apporeportr .apr{
+    margin-left: 40px;
+
+ }
+ .apporeportr .perscription
+ {
+    margin-left: 40px ;
+    width: 28rem;
+    height: 500px; 
+    /* margin-bottom: 2%; */
+    /* height: 45%; */
+ }
+ .apporeportr .perscription h6{
+   padding-top: 15px;
+   margin-left: 10px;
+   padding-bottom: 15px;
+} 
+.apporeportr .vitals
+ {
+    margin-left: 32rem ;
+    margin-top: -44.8%;
+    width: 30rem;
+    margin-bottom: 420px;
+    padding-bottom: 50px;
+
+ }
+ .apporeportr .vitals h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .symptoms
+ {
+
+    margin-left: 32rem;
+    width:30rem;
+    margin-bottom:440px ;
+    padding-bottom: 50px;
+    margin-top: -35%;
+ }
+ .apporeportr .symptoms h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .symptoms span{
+    color:red;
+    background-color:#FFE9AE;
+    padding:5px;
+    border-radius:25px;
+     margin-left: 10px;
+ }
+ .apporeportr .tests
+ {
+    margin-left: 32rem;
+    width:30rem;
+    margin-bottom:500px ;
+    padding-bottom: 50px;
+    margin-top: -37%;
+
+
+ }
+ .apporeportr .tests span{
+    color:red;
+    background-color:#FFE9AE;
+    padding:5px;
+    border-radius:25px;
+     margin-left: 10px;
+ }
+ .apporeportr .tests h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .clinic
+ {
+    margin-left: 40px ;
+    width: 28rem;
+    margin-bottom:2% ;
+    padding-bottom: 50px;
+    /* margin-top: -20%; */
+ }
+ .apporeportr .clinic span{
+    color:red;
+    background-color:#FFE9AE;
+    padding:5px;
+    border-radius:25px;
+     margin-left: 10px;
+ }
+ .apporeportr .clinic h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .doc{
+    margin-left: 32rem;
+    width:30rem;
+    margin-top: -14%;
+    margin-bottom:2% ;
+    padding-bottom: 50px;
+
+ }
+ .apporeportr .doc span{
+    color:red;
+    background-color:#FFE9AE;
+    padding:5px;
+    border-radius:25px;
+     margin-left: 10px;
+ }
+ .apporeportr .doc h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .comments
+ {
+    margin-left: 40px ;
+    width: 59.5rem;
+    padding-bottom: 50px;
+ }
+ .apporeportr .comments h6{
+    padding-top: 15px;
+    margin-left: 10px;
+    padding-bottom: 15px;
+ } 
+ .apporeportr .iconvitals i{
+    padding-right: 70px;
+    font-size: 27px;
+ }
+ .apporeportr .iconvitals
+ {
+   margin-left: 10px;
+ }
+ /* .units */
+ /* {
+   /* margin-left: 10px; */
+ /* }  */
+
+ .apporeportr .pres1
+ {
+   border: 1px solid;
+   border-radius: 10px;
+   border-color: grey;
+   padding-left: 10px;
+   padding-bottom: 10px;
+   /* float:left;
+width:1000px;
+/* overflow-y: auto; */
+
+ }
+ .apporeportr .button2
+ {
+   margin-left: 75%;
+   margin-top: -5%;
+ }
+ .apporeportr .recommend
+ {
+   margin-top: -43%;
+ }

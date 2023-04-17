@@ -1,0 +1,79 @@
+.form{
+    position:absolute;
+    left: 210px;
+    margin-top: 0px;
+}
+
+
+.form p{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.form h4{
+    margin-bottom: 10px;
+}
+
+.form hr{
+    width: 1000px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.form i{
+    margin-right: 10px;
+}
+
+.form button{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.form h6{
+    margin-top: 40px;
+}
+
+
+.form .line hr{
+    width: 200px;
+}
+
+.form .line{
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: baseline;
+    margin-top: 10px;
+}
+
+.form .line i{
+    margin-bottom: 4px;
+}
+
+.form .line input{
+    border-top: 0ch;
+    border-left: 0ch;
+    border-right: 0ch;
+    background-color: whitesmoke;
+}
+
+.form .reason p{
+    margin-top: 20px;
+}
+
+.form .reason input{
+    margin-top: 10px;
+    width: 500px;
+    height: 90px;
+}
+
+.form .ConfirmCancel{
+    margin-top: 60px;
+}
+
+.form .discard{
+    text-align: center
+}
+
+.form .modal-dailog{
+    width:fit-content;
+}
